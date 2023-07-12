@@ -2,4 +2,4 @@
 
 Written by Rohan Patel
 
-Northwestern Data Science Bootcamp HW2
+Northwestern Data Science VBA Challenge
